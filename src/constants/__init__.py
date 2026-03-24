@@ -6,3 +6,5 @@ MONGO_DATABASE_NAME: str = "myntra-reviews"
 
 # Session key for storing product name
 SESSION_PRODUCT_KEY: str = "product_name"
+
+
